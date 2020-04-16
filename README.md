@@ -10,4 +10,4 @@ npm start
 ```
 
 Credits:
-https://www.youtube.com/watch?v=ZwFA3YMfkoc
+JavaScript Mastery, 30 Sept. 2019, www.youtube.com/watch?v=ZwFA3YMfkoc.
